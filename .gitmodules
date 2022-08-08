@@ -1,0 +1,3 @@
+[submodule "generators/app/starter-files"]
+	path = generators/app/starter-files
+	url = https://github.com/irao12/starter-files/
