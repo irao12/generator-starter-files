@@ -1,4 +1,4 @@
 
 [submodule "generators/app/--force"]
-	path = generators/app/--force
+	path = generators/app/templates
 	url = https://github.com/irao12/starter-files/
