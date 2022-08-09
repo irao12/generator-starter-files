@@ -18,6 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "generator-starter-files": "^1.0.4",
     "yeoman-generator": "^5.7.0"
   }
 }
